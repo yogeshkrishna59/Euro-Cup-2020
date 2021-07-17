@@ -1,0 +1,30 @@
+Uefa 2020 just ended. This dataset contains key stats of top performers in this tournament.
+
+Columns:
+
+Player: Name of the player
+Country: Players country
+Position: Where the player play
+Match played: How many match played
+Goals: How many goals scored
+Right foot goals: How many goals scored by right foot
+Header goals: How many goals scored by head
+Assists: Number of assists
+Total attempts: Total attempts on goal
+On target: Total attempts on target
+Off target: Total attempts off target
+Woodwork: Total attempts hit the post
+Shot blocks: Number of shot blocked by defender
+Avg gpg: Average goals per game
+Fouls suffered: Total fouls suffered
+Fouls committed: Total fouls committed
+Top speed: Top speed
+Passing accuracy: Passing accuracy
+Distance covered: Total distance covered
+Clearence attempted: Total attempts of clearing the ball
+Balls recovered: Total balls recovered
+Tackles: Total tackles
+Blocks: Total shot blocked
+Yellow cards: Total yellow cards
+Red cards: Total red cards
+Minutes played: Total minutes played
